@@ -1,4 +1,4 @@
 ### Buğra
 
 <hr/>
-# Full Stack Developer
+## Full Stack Developer
